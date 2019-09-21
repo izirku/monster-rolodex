@@ -1,6 +1,7 @@
 {
   "name": "robot-rolodex",
   "author": "Evgenii Grigorev",
+  "homepage": "https://izirku.github.io/robot-rolodex",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
